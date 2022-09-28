@@ -6,4 +6,9 @@ I am an ML scientist working at the [Swiss Data Science Center](https://datascie
 - 🌱 Confession: Feyerabendianism
 - 👋 Contact: firstname dot lastname @ protonmail dot com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirmeier&layout=compact&theme=graywhite&hide=TypeScript,jupyter%20notebook,CSS,html,Fortran,TeX,Objective-C,coffeescript,R,Java&langs_count=6)]()
+<a href="https://github.com/dirmeier/dirmeier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dirmeier&show_icons=true&theme=swift&count_private=true&bg_color=white" height="175px" />
+</a>
+<a href="https://github.com/dirmeier/dirmeier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirmeier&layout=compact&theme=graywhite&hide=TypeScript,jupyter%20notebook,CSS,html,Fortran,TeX,Objective-C,coffeescript,R,Java&langs_count=6" height="175px"/>
+</a>
