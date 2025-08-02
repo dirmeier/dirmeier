@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a data and research scientist at the [Swiss Data Science Center](https://datascience.ch/) (SDSC) and [ETHZ](https://ethz.ch/en.html) in Zurich. 
+I am a research scientist/engineer at the [Swiss Data Science Center](https://datascience.ch/) (SDSC) and [ETHZ](https://ethz.ch/en.html) in Zurich. 
 
-- 🔭 Research interests: generative modeling, causal inference, approximate (Bayesian) inference, probabilistic programming, software development, ...
+- 🔭 Things I do: generative modeling, probabilistic programming, approximate (Bayesian) inference, causal inference, software development, ...
 - 👋 Contact: simd @ mailbox dot org
